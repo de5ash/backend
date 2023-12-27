@@ -1,0 +1,2 @@
+1. GET: When you want to get some data from the server
+2. POST: When you want to send and mutate some data in server
